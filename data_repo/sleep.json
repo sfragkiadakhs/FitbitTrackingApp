@@ -1,0 +1,277 @@
+{
+  "sleep": [
+    {
+      "dateOfSleep": "2021-01-08",
+      "duration": 15000000,
+      "efficiency": 100,
+      "endTime": "2021-01-08T00:20:00.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-07T20:10:00.000",
+            "level": "asleep",
+            "seconds": 15000
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 250
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30261193420,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 250,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-07T20:10:00.000",
+      "timeInBed": 250,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2021-01-07",
+      "duration": 30000000,
+      "efficiency": 100,
+      "endTime": "2021-01-07T03:30:00.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-06T19:10:00.000",
+            "level": "asleep",
+            "seconds": 30000
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 500
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30259705964,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 500,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-06T19:10:00.000",
+      "timeInBed": 500,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2021-01-06",
+      "duration": 24960000,
+      "efficiency": 100,
+      "endTime": "2021-01-06T03:06:40.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-05T20:10:00.000",
+            "level": "asleep",
+            "seconds": 24960
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 416
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30261882436,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 416,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-05T20:10:00.000",
+      "timeInBed": 416,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2021-01-05",
+      "duration": 24960000,
+      "efficiency": 100,
+      "endTime": "2021-01-05T04:26:40.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-04T21:30:00.000",
+            "level": "asleep",
+            "seconds": 24960
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 416
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30258486028,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 416,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-04T21:30:00.000",
+      "timeInBed": 416,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2021-01-04",
+      "duration": 30000000,
+      "efficiency": 100,
+      "endTime": "2021-01-04T06:50:00.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-03T22:30:00.000",
+            "level": "asleep",
+            "seconds": 30000
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 500
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30262145876,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 500,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-03T22:30:00.000",
+      "timeInBed": 500,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2021-01-03",
+      "duration": 27780000,
+      "efficiency": 100,
+      "endTime": "2021-01-03T06:43:20.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-02T23:00:00.000",
+            "level": "asleep",
+            "seconds": 27780
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 463
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30261963500,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 463,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-02T23:00:00.000",
+      "timeInBed": 463,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2021-01-02",
+      "duration": 28800000,
+      "efficiency": 100,
+      "endTime": "2021-01-02T06:00:00.000",
+      "infoCode": 0,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2021-01-01T22:00:00.000",
+            "level": "asleep",
+            "seconds": 28800
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 480
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 0,
+            "minutes": 0
+          }
+        }
+      },
+      "logId": 30260536822,
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 480,
+      "minutesAwake": 0,
+      "minutesToFallAsleep": 0,
+      "startTime": "2021-01-01T22:00:00.000",
+      "timeInBed": 480,
+      "type": "classic"
+    }
+  ]
+}
