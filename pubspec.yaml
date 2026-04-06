@@ -1,5 +1,5 @@
-name: drawer
-description: A new Flutter project.
+name: fitbit_tracking_app
+description: A Flutter application for visualizing and tracking health metrics from Fitbit devices. Features real-time heart rate monitoring, step tracking, sleep analysis, and comprehensive data visualization with an intuitive Material Design interface.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
